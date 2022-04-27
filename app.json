@@ -1,6 +1,6 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
+    "name": "minit",
+    "description": "minit",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -32,7 +32,6 @@
             "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Lbingyi/HerokuXray",
-    "repository": "https://github.com/Lbingyi/HerokuXray",
+    "repository": "",
     "stack": "container"
 }
